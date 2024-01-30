@@ -27,6 +27,100 @@ To install the linux terminal amd have it working the way it was designed you mu
 ![t4](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/d995d860-6930-47ed-b4dd-40b789b6a20f)
 - That is all you need to get the program working to it's current fullest ability.
 
+# Usage
+- You may type ```help``` on the main screens to display a list of usable commands
+
+# Command List (non shell)
+```
+uname         "Displays current shell OS version"
+locale        "View UTF-8 configuration on your system"
+medusa        "Allows you to preform MITM attacks"
+top           "View network traffic as network administrator"
+shutdown      "Shutdown your computer"
+pinglocalhost "Pings your local IP address"
+hostshutdown  "Allows you to shutdown computers on your local network using a remote shutdown dialog"
+tree          "The tree command allows you to view all files on your computer in a tree form"
+netstat       "View and moniter live network trafic"
+logout        "Logs the current user out"
+exit          "Exits the terminal"
+cmd           "Starts a Windows command prompt"
+assoc         "View all dinamic librays"
+tasklist      "Shows all active tasks running on your computer"
+shell         "Access a Linux based terminal"
+reboot        "Reboots your computer"
+webpage       "Visit a website"
+regedit       "Opens your computers registery"
+restorepoint  "Creates a system restore point"
+msgbox        "Displays a user configured message box"
+scancomp      "Scans a specified directory for viruses"
+```
+
+# Command List (shell)
+```
+- ipmask        - masks a users IP address
+- help          - Displays a list of usable commands
+- uname         - Displays current version of the terminal
+- exit          - Exits the terminal
+- mkser         - Creates a customized server within the terminal
+- mkdir         - Creates a customized directory within the terminal
+- sudo          - Beta
+- call.network  - Displays network status
+- update        - Beta
+- talkback      - Makes your computer speak to you
+- del           - Deletes a specified File
+- aprspoof      - Beta
+- multitool     - A usefull tool for hacking
+- grant.admin   - Dont worry about it
+- sudo-ettercap - opens a version of ettercap made for windows
+- msfconsole    - Netspoof, wicrack, hashcap, metasploit
+- airview       - Use to monitor transactions on a local network
+- proxylist     - Generates a list of usable proxys
+- getip         - Opens a skype resolver
+- sudo-wiscan   - Beta
+- sqlinjection  - Gives you backdoor access to a voulnerable website
+- proxyconfig   - Sets a custom proxy on a users network
+- voicecon      - Connects to dial-up server
+- ifconfig      - Displays Ip config
+- streetcam     - Beta
+- hoaxnet       - Used to create a fake network for man in the middle attacks
+- skypebot      - Beta
+- cookiestealer - Used for password exploits
+- exitshell     - Exits the shell
+- botinject     - injects a number of bots from an sql server to a network
+- newid         - Spoofs mac address on local system
+- netsteal      - Sniffs information on a target network
+- cryptcrack    - Used to brute force hashes
+- netdata       - Returns specified information about a users network
+- appinstall    - Used to install applications from third-party software
+- reversevpn    - Used to bypass a vpn
+- siteopen      - Opens a specified site
+- sqlserver      - Create ore login to a mySQL server
+- webping       - Used to gather the ip addresses of websites
+- cleaner       - Used to speed up your computer
+- webattack     - Used to take a website offline
+- phoneinject   - Used to exploit an android device
+- serverconnect - Used to connect to a server
+- puppyrat      - Used to create a windows payload for exploitation
+- infosniper    - Gathers information about ip address
+- packetbuilder - Used to send cutomized packets to  a network
+- netbot        - Used to add a network to a botnet or server
+- ps3info       - Beta
+- iplogger      - Creates a customized link to gather ip addresses
+- custompayload - Used to create customized payloads for exploitations
+- viruscreator  - Used to create 1 of 10 AMAZING viruses
+- airdump       - Used to hack wpa and wpa2 wifi passwords
+- serverupload  - Used to upload a file to a server without authkey
+- showarp       - Used to view arp
+```
+
 # Images
 
 ![1](https://github.com/blackmagic2023/The-Useless-Terminal/assets/149164084/d39d3a32-17f8-44ff-ada3-65b579703bef)
+![2](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/bd372a79-4b57-4fcb-9105-682585a0e1be)
+![3](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/0f0832f9-c307-46d5-9b18-4b60b96764cd)
+![4](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/7c123aaa-20d2-4f95-9ece-7fe6f2c09dec)
+![e](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/4392d7f8-e2fc-4ea2-b841-16cc541c329d)
+![q](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/492692fd-c07d-47a5-af53-f6945bd69fd2)
+![r](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/54370a30-3f16-401d-8f77-93e9e0a268a1)
+![t](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/484b7135-fb91-4066-8c38-1351f1ee8e4d)
+![w](https://github.com/Matrix07ksa/Brute_Force/assets/149164084/e72a17ae-57ff-4180-91ab-4bd49f2377c6)
